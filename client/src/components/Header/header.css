@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    text-shadow: rgba(181, 76, 76) 0 0 10px;
+}
