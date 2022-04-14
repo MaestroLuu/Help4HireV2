@@ -1,4 +1,6 @@
 import React from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 import Header from "./components/Header/Header";
 import Home from "./components/Pages/Home";
 import Chat from "./components/Pages/Chat";
